@@ -1,3 +1,10 @@
+# Script : crc8.py
+
+# Author: Roushan Mishra
+
+# Version: 1.0
+
+# Description: This python code snippet does the CRC8 calculation with Polynomial: 0x85, Initial Value: 0xFF & Final Xor Value: 0x0
 
 """
 CRC Calculation
